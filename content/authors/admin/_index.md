@@ -1,7 +1,7 @@
 ---
 title: Can Zhang
 role: Phd Candidate, Researcher
-avatar_filename: https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png
+avatar_filename: 1寸-2021.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
