@@ -25,8 +25,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Peking University
+    url: pku.edu.cn
+  - name: Tencent
+    url: ""
 education:
   courses:
     - course: PhD in Artificial Intelligence
